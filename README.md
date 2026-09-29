@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-[View dashboard here](https://app.powerbi.com/view?r=eyJrIjoiNTU4ODY2MGMtZTNjMi00NzJkLTgzNWItMTMxNDRkNjU1MDBiIiwidCI6ImFjNzllNWE4LWUwZTQtNDM0Yi1hMjkyLTJjODliNWMyODM2NiIsImMiOjF9)
+[View dashboard here](https://app.powerbi.com/view?r=eyJrIjoiNTU3Yjc2ZGMtOTk2NS00YTg2LWFmMTEtMWU1YzRkZmI5MjViIiwidCI6ImFjNzllNWE4LWUwZTQtNDM0Yi1hMjkyLTJjODliNWMyODM2NiIsImMiOjF9)
 
 ![Dashboard Page 1](/image/New%20folder/Screenshot%202026-09-13%20123545.png.jpg)
 
